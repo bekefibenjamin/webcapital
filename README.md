@@ -1,0 +1,1 @@
+Junior Laravel PHP fejlesztő Tesztfeladat a Webcapital KFT. számára
